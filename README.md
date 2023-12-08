@@ -10,7 +10,7 @@
 - lancer l'url [localhost/](http://localhost/jeuxtheme/)
 - Votre site est fonctionnel YOUPI !!!
   
-# 2. SDescription
+# 2. Description
 
 Ce projet consiste en un site web abordant le thème "Faire face au changement climatique : le vrai du faux". 
 Nous avons choisi de développer un site vitrine sous format jeux de theme pour présenter nos contenus.
