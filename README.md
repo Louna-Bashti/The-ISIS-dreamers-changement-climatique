@@ -21,22 +21,14 @@ Le site web est organisé en deux principales sections :
 
 1. **Page d'Accueil**
    - Introduction générale au sujet.
-
-2. **Slider de Thèmes**
-   - Affiche des images représentant différents aspects du changement climatique.
-   - Des inscriptions contextuelles spécifiques à chaque thème accompagnent les images.
-   - La navigation entre les thèmes se fait en utilisant le "bouton multiple" situé en bas des images.
-   - Les thèmes peuvent être parcourus en tournant le bouton vers la droite ou vers la gauche.
+   - Mise en information du public sur le vrai par rapport au changement climatique. 
 
 ## Instructions d'utilisation
 
 1. **Page d'Accueil**
    - Consultez cette section pour une introduction globale au site.
 
-2. **Slider de Thèmes**
-   - Utilisez le "bouton multiple" pour faire défiler les différentes images et inscriptions.
-   - Naviguez entre les thèmes en tournant le bouton vers la droite ou vers la gauche.
    - 
 # 3. lien vers un site hébergeant l’application  
 
-[Voir la réalisation ](https://nuitdelinfodreamers.alwaysdata.net/jeuxdetheme/)
+[Voir la réalisation ]([https://nuitdelinfodreamers.alwaysdata.net/]
